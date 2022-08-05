@@ -158,13 +158,13 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="King Bard Github Stats" src="https://github-readme-stats.vercel.app/api?username=KingBard77&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="King Bard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingBard77&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -176,11 +176,11 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+1. 🗣 Commented on [#43](https://github.com/KingBard77/jct-discord-bot/issues/43) in [KingBard77/jct-discord-bot](https://github.com/KingBard77/jct-discord-bot)
+2. 🗣 Commented on [#43](https://github.com/KingBard77/jct-discord-bot/issues/43) in [KingBard77/jct-discord-bot](https://github.com/KingBard77/jct-discord-bot)
+3. 🎉 Merged PR [#44](https://github.com/KingBard77/jct-discord-bot/pull/44) in [KingBard77/jct-discord-bot](https://github.com/KingBard77/jct-discord-bot)
+4. ❗️ Closed issue [#42](https://github.com/KingBard77/jct-discord-bot/issues/42) in [KingBard77/jct-discord-bot](https://github.com/KingBard77/jct-discord-bot)
+5. 💪 Opened PR [#44](https://github.com/KingBard77/jct-discord-bot/pull/44) in [KingBard77/jct-discord-bot](https://github.com/KingBard77/jct-discord-bot)
 <!--END_SECTION:activity-->
 
 </details>
