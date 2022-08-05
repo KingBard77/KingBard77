@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/KingBard77/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KingBard77#version3"/>
   </a>
 </p>
 
